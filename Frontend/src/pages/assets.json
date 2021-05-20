@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "label": "AAVE/BNB",
+    "base": "AAVE",
+    "quote": "BNB"
+  },
+  {
+    "id": 2,
+    "label": "AAVE/USD",
+    "base": "AAVE",
+    "quote": "USD"
+  },
+  {
+    "id": 3,
+    "label": "AAVE/USDT",
+    "base": "AAVE",
+    "quote": "USDT"
+  },
+  {
+    "id": 4,
+    "label": "ADA/USD",
+    "base": "ADA",
+    "quote": "USD"
+  },
+  {
+    "id": 5,
+    "label": "ADA/USDT",
+    "base": "ADA",
+    "quote": "USDT"
+  },
+  {
+    "id": 6,
+    "label": "ALGO/USD",
+    "base": "ALGO",
+    "quote": "USD"
+  },
+  {
+    "id": 7,
+    "label": "ALGO/USDT",
+    "base": "ALGO",
+    "quote": "USDT"
+  },
+  {
+    "id": 8,
+    "label": "ALICE/USDT",
+    "base": "ALICE",
+    "quote": "USDT"
+  },
+  {
+    "id": 9,
+    "label": "ANC/USD",
+    "base": "ANC",
+    "quote": "USD"
+  },
+  {
+    "id": 10,
+    "label": "ANC/USDT",
+    "base": "ANC",
+    "quote": "USDT"
+  },
+  {
+    "id": 11,
+    "label": "AVAX/ETH",
+    "base": "AVAX",
+    "quote": "ETH"
+  },
+  {
+    "id": 12,
+    "label": "AVAX/USD",
+    "base": "AVAX",
+    "quote": "USD"
+  },
+  {
+    "id": 13,
+    "label": "AVAX/USDT",
+    "base": "AVAX",
+    "quote": "USDT"
+  },
+  {
+    "id": 14,
+    "label": "AXS/USDT",
+    "base": "AXS",
+    "quote": "USDT"
+  },
+  {
+    "id": 15,
+    "label": "BAT/USD",
+    "base": "BAT",
+    "quote": "USD"
+  },
+  {
+    "id": 16,
+    "label": "BAT/USDT",
+    "base": "BAT",
+    "quote": "USDT"
+  },
+  {
+    "id": 17,
+    "label": "BCH/USDT",
+    "base": "BCH",
+    "quote": "USDT"
+  },
+  {
+    "id": 18,
+    "label": "BNB/BTC",
+    "base": "BNB",
+    "quote": "BTC"
+  },
+  {
+    "id": 19,
+    "label": "BNB/USD",
+    "base": "BNB",
+    "quote": "USD"
+  },
+  {
+    "id": 20,
+    "label": "BNB/USDT",
+    "base": "BNB",
+    "quote": "USDT"
+  },
+  {
+    "id": 21,
+    "label": "BTC/HKD",
+    "base": "BTC",
+    "quote": "HKD"
+  },
+  {
+    "id": 22,
+    "label": "BTC/USD",
+    "base": "BTC",
+    "quote": "USD"
+  },
+  {
+    "id": 23,
+    "label": "BTC/USDT",
+    "base": "BTC",
+    "quote": "USDT"
+  },
+  {
+    "id": 24,
+    "label": "BUSD/USD",
+    "base": "BUSD",
+    "quote": "USD"
+  },
+  {
+    "id": 25,
+    "label": "BZRX/USDT",
+    "base": "BZRX",
+    "quote": "USDT"
+  },
+  {
+    "id": 26,
+    "label": "CAKE/USDT",
+    "base": "CAKE",
+    "quote": "USDT"
+  },
+  {
+    "id": 27,
+    "label": "CHF/USD",
+    "base": "CHF",
+    "quote": "USD"
+  },
+  {
+    "id": 28,
+    "label": "COCOS/USDT",
+    "base": "COCOS",
+    "quote": "USDT"
+  },
+  {
+    "id": 29,
+    "label": "CPOOL/USD",
+    "base": "CPOOL",
+    "quote": "USD"
+  },
+  {
+    "id": 30,
+    "label": "CPOOL/USDT",
+    "base": "CPOOL",
+    "quote": "USDT"
+  },
+  {
+    "id": 31,
+    "label": "DOGE/USDT",
+    "base": "DOGE",
+    "quote": "USDT"
+  },
+  {
+    "id": 32,
+    "label": "DOT/USD",
+    "base": "DOT",
+    "quote": "USD"
+  },
+  {
+    "id": 33,
+    "label": "DOT/USDT",
+    "base": "DOT",
+    "quote": "USDT"
+  },
+  {
+    "id": 34,
+    "label": "DOT/XRP",
+    "base": "DOT",
+    "quote": "XRP"
+  },
+  {
+    "id": 35,
+    "label": "DYDX/USDT",
+    "base": "DYDX",
+    "quote": "USDT"
+  },
+  {
+    "id": 36,
+    "label": "EOS/USD",
+    "base": "EOS",
+    "quote": "USD"
+  },
+  {
+    "id": 37,
+    "label": "EOS/USDT",
+    "base": "EOS",
+    "quote": "USDT"
+  },
+  {
+    "id": 38,
+    "label": "ERN/USD",
+    "base": "ERN",
+    "quote": "USD"
+  },
+  {
+    "id": 39,
+    "label": "ERN/USDT",
+    "base": "ERN",
+    "quote": "USDT"
+  },
+  {
+    "id": 40,
+    "label": "ETH/BTC",
+    "base": "ETH",
+    "quote": "BTC"
+  },
+  {
+    "id": 41,
+    "label": "ETH/HKD",
+    "base": "ETH",
+    "quote": "HKD"
+  },
+  {
+    "id": 42,
+    "label": "ETH/USD",
+    "base": "ETH",
+    "quote": "USD"
+  },
+  {
+    "id": 43,
+    "label": "ETH/USDC",
+    "base": "ETH",
+    "quote": "USDC"
+  },
+  {
+    "id": 44,
+    "label": "ETH/USDT",
+    "base": "ETH",
+    "quote": "USDT"
+  },
+  {
+    "id": 45,
+    "label": "EUR/USD",
+    "base": "EUR",
+    "quote": "USD"
+  },
+  {
+    "id": 46,
+    "label": "FTM/USD",
+    "base": "FTM",
+    "quote": "USD"
+  },
+  {
+    "id": 47,
+    "label": "FTM/USDT",
+    "base": "FTM",
+    "quote": "USDT"
+  },
+  {
+    "id": 48,
+    "label": "FTT/USD",
+    "base": "FTT",
+    "quote": "USD"
+  },
+  {
+    "id": 49,
+    "label": "FTT/USDT",
+    "base": "FTT",
+    "quote": "USDT"
+  },
+  {
+    "id": 50,
+    "label": "HBAR/USD",
+    "base": "HBAR",
+    "quote": "USD"
+  },
+  {
+    "id": 51,
+    "label": "HBAR/USDC",
+    "base": "HBAR",
+    "quote": "USDC"
+  },
+  {
+    "id": 52,
+    "label": "HBAR/USDT",
+    "base": "HBAR",
+    "quote": "USDT"
+  },
+  {
+    "id": 53,
+    "label": "HI/USDC",
+    "base": "HI",
+    "quote": "USDC"
+  },
+  {
+    "id": 54,
+    "label": "HNS/USD",
+    "base": "HNS",
+    "quote": "USD"
+  },
+  {
+    "id": 55,
+    "label": "HNS/USDT",
+    "base": "HNS",
+    "quote": "USDT"
+  },
+  {
+    "id": 56,
+    "label": "HNT/USD",
+    "base": "HNT",
+    "quote": "USD"
+  },
+  {
+    "id": 57,
+    "label": "HOT/USD",
+    "base": "HOT",
+    "quote": "USD"
+  },
+  {
+    "id": 58,
+    "label": "HOT/USDT",
+    "base": "HOT",
+    "quote": "USDT"
+  },
+  {
+    "id": 59,
+    "label": "INJ/USDT",
+    "base": "INJ",
+    "quote": "USDT"
+  },
+  {
+    "id": 60,
+    "label": "KLAY/USD",
+    "base": "KLAY",
+    "quote": "USD"
+  },
+  {
+    "id": 61,
+    "label": "KLAY/USDT",
+    "base": "KLAY",
+    "quote": "USDT"
+  },
+  {
+    "id": 62,
+    "label": "KSM/USD",
+    "base": "KSM",
+    "quote": "USD"
+  },
+  {
+    "id": 63,
+    "label": "KSM/USDT",
+    "base": "KSM",
+    "quote": "USDT"
+  },
+  {
+    "id": 64,
+    "label": "LINA/USD",
+    "base": "LINA",
+    "quote": "USD"
+  },
+  {
+    "id": 65,
+    "label": "LINA/USDT",
+    "base": "LINA",
+    "quote": "USDT"
+  },
+  {
+    "id": 66,
+    "label": "LINK/USD",
+    "base": "LINK",
+    "quote": "USD"
+  },
+  {
+    "id": 67,
+    "label": "LINK/USDT",
+    "base": "LINK",
+    "quote": "USDT"
+  },
+  {
+    "id": 68,
+    "label": "LRC/USDT",
+    "base": "LRC",
+    "quote": "USDT"
+  },
+  {
+    "id": 69,
+    "label": "LUNA/USD",
+    "base": "LUNA",
+    "quote": "USD"
+  },
+  {
+    "id": 70,
+    "label": "LUNA/USDT",
+    "base": "LUNA",
+    "quote": "USDT"
+  },
+  {
+    "id": 71,
+    "label": "MATIC/USDT",
+    "base": "MATIC",
+    "quote": "USDT"
+  },
+  {
+    "id": 72,
+    "label": "MIR/USD",
+    "base": "MIR",
+    "quote": "USD"
+  },
+  {
+    "id": 73,
+    "label": "MIR/USDT",
+    "base": "MIR",
+    "quote": "USDT"
+  },
+  {
+    "id": 74,
+    "label": "NEAR/USDT",
+    "base": "NEAR",
+    "quote": "USDT"
+  },
+  {
+    "id": 75,
+    "label": "OGN/USDT",
+    "base": "OGN",
+    "quote": "USDT"
+  },
+  {
+    "id": 76,
+    "label": "OM/USDT",
+    "base": "OM",
+    "quote": "USDT"
+  },
+  {
+    "id": 77,
+    "label": "PAXG/USDT",
+    "base": "PAXG",
+    "quote": "USDT"
+  },
+  {
+    "id": 78,
+    "label": "RLY/USD",
+    "base": "RLY",
+    "quote": "USD"
+  },
+  {
+    "id": 79,
+    "label": "RLY/USDT",
+    "base": "RLY",
+    "quote": "USDT"
+  },
+  {
+    "id": 80,
+    "label": "SAMO/USDT",
+    "base": "SAMO",
+    "quote": "USDT"
+  },
+  {
+    "id": 81,
+    "label": "SAND/USDT",
+    "base": "SAND",
+    "quote": "USDT"
+  },
+  {
+    "id": 82,
+    "label": "SFI/USDT",
+    "base": "SFI",
+    "quote": "USDT"
+  },
+  {
+    "id": 83,
+    "label": "SGB/USD",
+    "base": "SGB",
+    "quote": "USD"
+  },
+  {
+    "id": 84,
+    "label": "SGB/USDT",
+    "base": "SGB",
+    "quote": "USDT"
+  },
+  {
+    "id": 85,
+    "label": "SLIM/USDT",
+    "base": "SLIM",
+    "quote": "USDT"
+  },
+  {
+    "id": 86,
+    "label": "SOL/ETH",
+    "base": "SOL",
+    "quote": "ETH"
+  },
+  {
+    "id": 87,
+    "label": "SOL/USD",
+    "base": "SOL",
+    "quote": "USD"
+  },
+  {
+    "id": 88,
+    "label": "SOL/USDT",
+    "base": "SOL",
+    "quote": "USDT"
+  },
+  {
+    "id": 89,
+    "label": "SRM/USDT",
+    "base": "SRM",
+    "quote": "USDT"
+  },
+  {
+    "id": 90,
+    "label": "STEP/USDT",
+    "base": "STEP",
+    "quote": "USDT"
+  },
+  {
+    "id": 91,
+    "label": "THETA/USDT",
+    "base": "THETA",
+    "quote": "USDT"
+  },
+  {
+    "id": 92,
+    "label": "UNI/USD",
+    "base": "UNI",
+    "quote": "USD"
+  },
+  {
+    "id": 93,
+    "label": "UNI/USDT",
+    "base": "UNI",
+    "quote": "USDT"
+  },
+  {
+    "id": 94,
+    "label": "USD/HKD",
+    "base": "USD",
+    "quote": "HKD"
+  },
+  {
+    "id": 95,
+    "label": "USDC/USD",
+    "base": "USDC",
+    "quote": "USD"
+  },
+  {
+    "id": 96,
+    "label": "USDT/USD",
+    "base": "USDT",
+    "quote": "USD"
+  },
+  {
+    "id": 97,
+    "label": "USDT/USDC",
+    "base": "USDT",
+    "quote": "USDC"
+  },
+  {
+    "id": 98,
+    "label": "UST/USD",
+    "base": "UST",
+    "quote": "USD"
+  },
+  {
+    "id": 99,
+    "label": "UST/USDC",
+    "base": "UST",
+    "quote": "USDC"
+  },
+  {
+    "id": 100,
+    "label": "UST/USDT",
+    "base": "UST",
+    "quote": "USDT"
+  },
+  {
+    "id": 101,
+    "label": "XLM/USD",
+    "base": "XLM",
+    "quote": "USD"
+  },
+  {
+    "id": 102,
+    "label": "XRP/ETH",
+    "base": "XRP",
+    "quote": "ETH"
+  },
+  {
+    "id": 103,
+    "label": "XRP/USDT",
+    "base": "XRP",
+    "quote": "USDT"
+  },
+  {
+    "id": 104,
+    "label": "XTZ/ETH",
+    "base": "XTZ",
+    "quote": "ETH"
+  },
+  {
+    "id": 105,
+    "label": "HI/BUSD",
+    "base": "HI",
+    "quote": "BUSD"
+  },
+  {
+    "id": 106,
+    "label": "OMG/USDT",
+    "base": "OMG",
+    "quote": "USDT"
+  },
+  {
+    "id": 107,
+    "label": "MANA/USD",
+    "base": "MANA",
+    "quote": "USD"
+  },
+  {
+    "id": 108,
+    "label": "THETA/USD",
+    "base": "THETA",
+    "quote": "USD"
+  },
+  {
+    "id": 109,
+    "label": "MANA/USDT",
+    "base": "MANA",
+    "quote": "USDT"
+  },
+  {
+    "id": 110,
+    "label": "XLM/USDT",
+    "base": "XLM",
+    "quote": "USDT"
+  }
+]
